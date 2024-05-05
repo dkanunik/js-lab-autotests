@@ -1,0 +1,11 @@
+{
+  "id": "/simple",
+  "title": "get-user-groups-children schema",
+  "type": "object",
+  "required": ["chart"],
+  "properties": {
+    "result": {
+      "type": "string"
+    }
+  }
+}
